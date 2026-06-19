@@ -1,4 +1,16 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+backend/src/data/*.json
+backend/src/.env
+
+node_modules/
+.env
+backend/src/data/*.json
+.expo/
+android/
+ios/
+*.apk
+dist/
+.cache/
 
 # dependencies
 node_modules/
